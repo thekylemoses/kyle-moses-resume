@@ -2,18 +2,20 @@ h1{
     text-align-last: center;
 }
 
+h2{
+    border-bottom-style: solid;
+}
 h3{
     font-style: italic;
 }
 
-.headDiv {
+.headDiv{
     border-top-style: solid;
     border-bottom-style: solid;
     text-align-last: center;
 
   }
 .bodyDiv{
-    border-top-style: solid;
     margin-left: 50px;
 }
 
