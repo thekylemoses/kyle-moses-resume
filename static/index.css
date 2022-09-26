@@ -9,11 +9,10 @@ h3{
     font-style: italic;
 }
 
-.headDiv{
+section{
     border-top-style: solid;
     border-bottom-style: solid;
     text-align-last: center;
-
   }
 .bodyDiv{
     margin-left: 50px;
