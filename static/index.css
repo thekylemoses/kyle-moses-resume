@@ -4,6 +4,8 @@ h1{
 #secthead {
     border-top-style: solid;
     border-bottom-style: solid;
+    text-align-last: center;
+
   }
 section {
     border-top-style: solid;
