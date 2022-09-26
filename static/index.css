@@ -6,13 +6,13 @@ h3{
     font-style: italic;
 }
 
-div.headDiv {
+.headDiv {
     border-top-style: solid;
     border-bottom-style: solid;
     text-align-last: center;
 
   }
-div.bodyDiv{
+.bodyDiv{
     border-top-style: solid;
     margin-left: 50px;
 }
