@@ -2,6 +2,10 @@ h1{
     text-align-last: center;
 }
 
+h3{
+    font-style: italic;
+}
+
 #secthead {
     border-top-style: solid;
     border-bottom-style: solid;
