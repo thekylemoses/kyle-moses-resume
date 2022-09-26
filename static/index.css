@@ -6,15 +6,16 @@ h3{
     font-style: italic;
 }
 
-#secthead {
+.headDiv {
     border-top-style: solid;
     border-bottom-style: solid;
     text-align-last: center;
 
   }
-section {
+.bodyDiv{
     border-top-style: solid;
-  }
+    margin-left: 50px;
+}
 
   ul{
     list-style: circle;
