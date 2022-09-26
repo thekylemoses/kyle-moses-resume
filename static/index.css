@@ -1,6 +1,7 @@
 h1{
     text-align-last: center;
 }
+
 #secthead {
     border-top-style: solid;
     border-bottom-style: solid;
@@ -9,4 +10,8 @@ h1{
   }
 section {
     border-top-style: solid;
+  }
+
+  ul{
+    list-style: circle;
   }
