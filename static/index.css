@@ -1,9 +1,10 @@
 h1{
     text-align-last: center;
 }
+#secthead {
+    border-top-style: solid;
+    border-bottom-style: solid;
+  }
 section {
-    border-top-style: dotted;
-    border-right-style: solid;
-    border-bottom-style: dotted;
-    border-left-style: solid;
+    border-top-style: solid;
   }
